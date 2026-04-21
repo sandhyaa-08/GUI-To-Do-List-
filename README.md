@@ -45,7 +45,7 @@ todo-list/
    pip install pandas
 
 3. Run the project:
-   python main.py
+   To-do List.py
 
 ---
 
